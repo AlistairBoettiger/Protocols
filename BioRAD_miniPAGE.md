@@ -1,6 +1,7 @@
 ## Denaturing PAGE with BioRad Mini setup
 
 Components (from BioRad Page):
+
 ![](https://raw.github.com/AlistairBoettiger/Protocols/master/BioRad_PAGE_setup.jpg)
 #### components
 1. Lid and tank
