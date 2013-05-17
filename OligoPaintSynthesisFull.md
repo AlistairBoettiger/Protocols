@@ -150,7 +150,7 @@ Modified to use in-house cast gels and Zhuang Lab equipment.  Original recovery 
 *   40% Acrylomide 30 mL
 *   10x TBE buffer 10 mL 
 *   ddH2O 20 mL
-1.  When urea is dissolved, add 150µL of TEMED and 300mL of 10% APS. Mix thoroughly, then pour between gel plates. 
+1.  When urea is dissolved, add 150µL of TEMED and 300µL of 10% APS. Mix thoroughly, then pour between gel plates. 
 2.  Insert comb, and let gel polymerize for > 45 min. 
 3.  Remove sealing tape and insert gel into gel running apparatus. Fill with 0.5x TBE. 
 4.  Pre-run gel at 50mA for > 1hr. 
