@@ -1,14 +1,14 @@
 ## HPLC Protocol
 
 ### Materials:
-Buffer A (0.1M acetic acid/0.1M triethylamine/5% acetonitrile pH 7)
+* Buffer A (0.1M acetic acid/0.1M triethylamine/5% acetonitrile pH 7)
 To make buffer A, dissolve appropriate amount of TEA and MeCN in water, then titrate to pH 7.0 with HOAc.
-Buffer B (100% acetonitrile)
-Agilent Eclipse XDB-C8 Column (4.6 x 250 mm)
+* Buffer B (100% acetonitrile)
+* Agilent Eclipse XDB-C8 Column (4.6 x 250 mm)
 
 ### Important notes:
-Filter all HPLC buffers! (filter using whatman filter paper, not the Nalgene filters as the organics in the buffer will dissolve the plastic filter)
-Pressure on HPLC system should not exceed 20MPa
+* Filter all HPLC buffers! (filter using whatman filter paper, not the Nalgene filters as the organics in the buffer will dissolve the plastic filter)
+* Pressure on HPLC system should not exceed 20MPa
 
 ### Procedure:
 1.	Purge buffers A and B with Ar for 15 min.
