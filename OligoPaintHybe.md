@@ -2,8 +2,9 @@
 ### OligoPaint Protocol 
 1. Plate cells on polylysine coated coverslips
 2. allow cells ~1hr to attach
+3. Wash twice with 1x PBS to remove media and unattached cells
 3. Fix cells 10' in 5% PFA
-4. wash out PFA in PBT
+4. wash out PFA in 1x PBS
 5. Incubate for 10’ in 1X PBS + 0.5% v/v Triton X-100 at RT
 6. Incubate for 2’ in 1X PBS at RT
 7. Incubate for 30’ in 1X PBS + 20% v/v glycerol
@@ -28,7 +29,7 @@ per slide.
 cm coverslip, invert the slide onto the coverslip, and seal with rubber cement
 22. Allow the rubber cement to dry for 5’ at RT
 23. Denature the slides for 3’ at 78°C on a water-immersed heat block
-24. Hybridize overnight at 42°C in a humidified chamber
+24. Hybridize overnight at 40°C in a humidified chamber
 25. The next day, remove the coverslip and wash for 15’ in 2X SSCT (2X SSC + 0.1% v/v
 Tween 20) at 60°C
 26. Incubate in 2X SSCT for 10’ at RT
