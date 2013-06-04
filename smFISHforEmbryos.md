@@ -62,9 +62,8 @@ ddH2O   | 880 mL
 
 **Probe** **~15 min prep, O/N incubation** 
 
-1.  In a clean tube,
-2.  Add ~4uL of each probe to 200 uL of HS
-3.  Denature secondary structure. Heat 2-3 min 80-85 C
+1.  In a clean tube, add ~4uL of each probe (dig probes are preferred) to 200 uL of HS (1-3 ng/uL solution)
+3.  Denature secondary structure: Heat 2-3 min 80-85 C
 4.  Transfer to ice 1-2 min 0 C
 5.  Remove hyb from embryos, Add probe 18-24 hr 55 C   
 
@@ -91,7 +90,7 @@ ddH2O   | 880 mL
 
    * [Roche sheep anti-dig](https://www.uoftmedstore.com/item_detail.sz?id=44403&parent=4065)
    * [Invitrogen mouse anti-bio ](http://products.invitrogen.com/ivgn/product/033700)
-   * [Invitrogen rabbit anti-DNP  ](http://products.invitrogen.com/ivgn/product/713500?ICID=search-product) 
+
 
 # Day 3
 
