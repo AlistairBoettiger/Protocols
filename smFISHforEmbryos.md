@@ -121,29 +121,7 @@ ddH2O   | 880 mL
 2.  Aspirate remaining liquid, be careful not to aspirate embryos
 3.  Apply 100-130 uL of room temp. mounting media (<a style="font-size: 16px;" href="http://www.invitrogen.com/site/us/en/home/brands/Molecular-Probes/Key-Molecular-Probes-Products/ProLong-Antifades-Brand-Page.html?">ProLong Gold</a>, store at –20C)
 4.  Drag a P200 tip around to cover all embryos in mounting media
-5.  <i style="font-size: 16px;">Slowly</i> lower coverslip over embryos from one end. Can apply extra mounting media around edge to seal bubbles.
-6.  Seal with nail polish if desired.   (Colorimetric) 
+5.  <i style="font-size: 16px;">Slowly</i> lower coverslip over embryos from one end. Allow to cure at RT overnight prior to imaging.  
 
-**Colorimetric Reaction** **0.5-5 hrs** 
 
-1.  Wash in staining buffer <i style="font-size: 16px;"><b>2x </b></i> 5 min (make fresh buffer!)
-2.  Remove buffer, add 1 mL staining soln
-3.  Using a cutoff P200 tip, Transfer to staining dishes, monitor 2 min-5hr (cover with box)
 
-**Stop Reaction** **~1.5 hrs** 
-
-1.  Transfer embryos to a new eppendorf
-2.  Rinse 2x with PBT
-3.  Rock 1x in PBT 5 min
-4.  Rock 1x in 1:1 PBT:EtOH 5 min
-5.  Rock 5x in new EtOH 1 hr +
-
-**Mounting** **~ 1 hr** 
-
-1.  Get clean slides and coverslips
-2.  Aspirate off EtOH, Add 1 mL xylenes 1-3 min (do not exceed 3 min, do not invert)
-3.  Remove xylene.
-4.  Add 300-400uL Permount mounting media (Fisher)
-5.  Mount embryos with a cutoff tip
-6.  Add cover slip, can wick media in from side
-7.  Store flat for at least the first year    
