@@ -33,15 +33,28 @@
 > *(higher molar Tris recommended for longer STORM imaging)
 
 1.  Oxygen Scavenger (GLOX) 
-
-* 200 uL of Dilution Buffer (see above) 
-* 14 mg Glucose Oxidase (Sigma Aldrich) 
-* 50 uL of catalase (20 mg/mL; Sigma Aldrich) 
-* Dissolve glucose oxidase in Dilution Buffer, vortex to mix. After mixing the catalase suspension well, add catalase to glucose oxidase solution.
-* Centrifuge at maximum speed for 1 min. Catalase may visibly precipitate out and remain at the bottom of the tube. Use the yellow supernatant for imaging buffers. 
-* Aliquot and freeze immediately. Store working tube at 4C for up to 1 week. Fresh (non-frozen) aliquots good for up to 2 weeks at 4C.
+   * 200 uL of Dilution Buffer (see above) 
+   * 14 mg Glucose Oxidase, or 28 mg of Pyranose Oxidase* (Sigma Aldrich) 
+   * 50 uL of catalase (20 mg/mL; Sigma Aldrich) 
+   * Dissolve glucose oxidase in Dilution Buffer, vortex to mix. After mixing the catalase suspension well, add catalase to glucose oxidase solution.
+   * Centrifuge at maximum speed for 1 min. Catalase may visibly precipitate out and remain at the bottom of the tube. Use the yellow supernatant for imaging buffers. 
+   * Aliquot and freeze immediately. Store working tube at 4C for up to 1 week. Fresh (non-frozen) aliquots good for up to 2 weeks at 4C.
+   
+> *Pyranose Oxidase is more expensive but ensures stable buffer pH even in buffers exposed to air.  Glucose oxidase will cause buffer pH to drop rapidly (pH ~4 or less) if exposed to air for a few hours.  
 
 1.  50% (by mass) Glucose stock 
 2.  BME (Sigma-Aldrich 63689-25ML-F)
 
  [1]: http://pubs.acs.org/doi/pdf/10.1021/ja3105279
+
+## Trolox Buffer
+Recipe from Kok Hao Chen
+### buffer composition
+* 50mM Tris, 200mM NaCl (or 2xSSC), 
+* 10% Glucose, 
+*  saturating amount (~2mM) of Trolox. 
+  
+### Prep protocol
+1. Add all the ingredients together with ~10mg of Trolox in 10mL of total volume. Trolox is in way excess and it will not dissolve completely. 
+2. Sonicate the mix for ~5-10mins and then leave the mix in the cold room shaking overnight. 
+3. Filter the mix the next day morning, and the buffer is ready to be used. 
