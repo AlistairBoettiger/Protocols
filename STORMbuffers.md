@@ -24,7 +24,7 @@
 *   80 uL Dilution Buffer
 *   20 uL of 50% Glucose
 *   1 uL of BME
-*   2 uL of GLOX solution
+*   2 uL of GLOX solution (Make fresh each week)
 *   1 uL of COT (200 mM in DMSO)
 
 ### Components:
@@ -39,7 +39,7 @@
    * 50 uL of catalase (20 mg/mL; Sigma Aldrich) 
    * Dissolve glucose oxidase in Dilution Buffer, vortex to mix. After mixing the catalase suspension well, add catalase to glucose oxidase solution.
    * Centrifuge at maximum speed for 1 min. Catalase may visibly precipitate out and remain at the bottom of the tube. Use the yellow supernatant for imaging buffers. 
-   * Aliquot and freeze immediately. Store working tube at 4C for up to 1 week. Fresh (non-frozen) aliquots good for up to 2 weeks at 4C.
+   *  Store working tube at 4C for up to 1 week.
    
 > *Pyranose Oxidase is more expensive but ensures stable buffer pH even in buffers exposed to air.  Glucose oxidase will cause buffer pH to drop rapidly (pH ~4 or less) if exposed to air for a few hours.  
 
