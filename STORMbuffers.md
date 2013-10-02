@@ -24,7 +24,8 @@
 *   80 uL Dilution Buffer
 *   20 uL of 50% Glucose
 *   1 uL of BME
-*   1.5 uL of GLOX solution
+*   2 uL of GLOX solution
+*   1 uL of COT (200 mM in DMSO)
 
 ### Components:
 
