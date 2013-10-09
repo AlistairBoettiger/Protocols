@@ -21,14 +21,18 @@ Components (from BioRad Page):
 * 9-well (30 µl),
 * IPG comb (7 cm IPG strip)
 
+### Gel volumes
+* 0.75 mm 4.2 mL
+* 1.0 mm 5.6 mL
+* 1.5 mm 8.4 mL
 
 ### Casting the Gel 
-#### Reagents (25 uL of gel 16% Denaturing Gel)
+#### Reagents (25 mL of gel 15% Denaturing Gel)
 * 12g Urea
-* 7.5 mL 40% acrylamide (19:1) Bis
+* 7 mL 40% acrylamide (19:1) Bis
 * 2.5 mL 10x TBE
-* 5 mL ddH2O
-* 38 uL 10% APS (ammonium-persulfate). Make fresh or use froze aliquot < 3 months old
+* 5.5 mL ddH2O
+* 38 uL 10% APS (ammonium-persulfate). Make fresh from powder
 * 38 uL TEMED
 
 #### Procedure
@@ -39,7 +43,7 @@ Components (from BioRad Page):
 * stir and heat gently 3-5 minutes.  Let cool.
 * Add 38 uL of TEMED and 38 uL of 10% APS.
 * Mix well but quickly.  (on stir table?)
-* Pour gels.  
+* Pour gels.  Makes 4 0.75 mm gels.  
 * Note: Polymerization will happen soon after adding APS.  If it is too fast, use less APS.  
 
 ## Running Gel

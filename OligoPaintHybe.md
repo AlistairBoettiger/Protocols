@@ -1,10 +1,14 @@
 
-### OligoPaint Protocol 
+## OligoPaint Protocol 
+### Fixation
 1. Plate cells on polylysine coated coverslips
 2. allow cells ~1hr to attach
-3. Wash twice with 1x PBS to remove media and unattached cells
-3. Fix cells 10' in 5% PFA
-4. wash out PFA in 1x PBS
+3. Check cell density on microscope.  Cells should be mostly confluent.
+4. Wash twice with 1x PBS to remove media and unattached cells
+5. Fix cells 10' in 5% PFA
+6. wash out PFA in 1x PBS.  Cells may now be stored at 4C for a few days.
+
+### Permeabilization
 5. Incubate cells for 7' in 1 mg/mL Sodium Borohydride in ddH2O (make fresh!)
 6. Wash 2x with PBS
 7. Incubate for 10' in 1X PBS + 0.5% v/v Triton X-100 at RT
@@ -15,9 +19,11 @@
 12. Repeat steps 8 and 9 two additional times
 13. Incubate for 1' in 1X PBS at RT
 14. Wash 2x for 5' in 1X PBS at RT
-15. Incubate for 5' in 0.1 M HCl at RT  (425 uL of 36% HCl in 50 mL = .1 M)
+15. Incubate for 5' in 0.1 M HCl at RT  (425 uL of 36% HCl in 50 mL = 0.1 M)
 16. Wash 3x for 1' in 2X SSC at RT
-17. Incubate for 35’ in 2X SSC + 50% v/v formamide at RT
+17. Incubate for 35’ in 2X SSC + 50% v/v formamide 0.1% Tween at RT.  Cells may be stored at 4C for several days.
+
+### Hybridization
 18. Tap slides dry on a paper towel (never allowing the face of the slide containing the cells
 to come into contact with the paper towel)
 19. Create a hybridization cocktail consisting of 12.5 μl of 2X hyb. mix (4X SSCT + 20% w/v
