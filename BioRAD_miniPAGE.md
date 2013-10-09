@@ -45,10 +45,15 @@ Components (from BioRad Page):
 * Mix well but quickly.  (on stir table?)
 * Pour gels.  Makes 4 0.75 mm gels.  
 * Note: Polymerization will happen soon after adding APS.  If it is too fast, use less APS.  
+* Allow 1 hour for gels to fully polymerize before removing from casting unit.
+* Unused gels may be stored for a few days to a week at 4C wrapped in Seran wrap with a moist paper towel backing.  Old gels may start to frown.    
 
 ## Running Gel
-* Warm 1 L of buffer for 2:30 min in microwave
-* 
-
-#### Notes
-* Volumes may need adjustment, this is my first time through. 
+* Warm 1 L of 1x TBE buffer for 2:30 min in microwave. 
+* Turn on water-bath to 60C.  Fill water bath with enough water to rise to the same level of buffer in the BioRad tank.
+* Insert gel into gel box and load box into tank.  Pre-run gel for 10-30 minutes at 120 V to equilibrate gel temperature.
+* Denature samples in loading buffer (e.g. 2x Urea-loading buffer from BioRad) at 90C for 2-5 min.  Return to water-ice bath.  
+* Flush extra urea from wells prior to loading.
+* Load sample, run gel for 50 minutes at 120 V. 
+*  Gently extract gel from casing.  Incubate in 1x Gel-Green in 1x TBE for 10-30 minutes.  
+*  Image Gel on Typhoon Imager
