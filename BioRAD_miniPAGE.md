@@ -56,4 +56,4 @@ Components (from BioRad Page):
 * Flush extra urea from wells prior to loading.
 * Load sample, run gel for 50 minutes at 120 V. 
 *  Gently extract gel from casing.  Incubate in 1x Gel-Green in 1x TBE for 10-30 minutes.  
-*  Image Gel on Typhoon Imager
+*  Image Gel on Typhoon Imager.

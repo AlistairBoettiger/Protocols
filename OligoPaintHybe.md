@@ -16,7 +16,7 @@
 9. Incubate for 30' in 1X PBS + 20% v/v glycerol
 10. Immerse the slide in liquid nitrogen using forceps and allow to freeze completely (LN2 should stop boiling.)  This step is easiest done with slides on a ceramic rack
 11. Allow the slide to thaw face-up on a paper towel or on ceramic rack.
-12. Repeat steps 8 and 9 two additional times
+12. Repeat steps liquid nitrogen bath 2x. 
 13. Incubate for 1' in 1X PBS at RT
 14. Wash 2x for 5' in 1X PBS at RT
 15. Incubate for 5' in 0.1 M HCl at RT  (425 uL of 36% HCl in 50 mL = 0.1 M)
