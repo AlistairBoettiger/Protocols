@@ -1,11 +1,15 @@
 
 ## OligoPaint Protocol 
+Protocol for labeling DNA region painting for STORM imaging.  Thanks to Brian Beliveau for help with protocol development.  
+
+Alistair Boettiger, (C) 2013 CC-BY
+
 ### Fixation
-1. Plate cells on polylysine coated coverslips
+1. Plate cells on polylysine coated coverslips (Add and immediately remove 400-1000 uL of polylysine solution to each coverslip.  Sterilize coverslips under UV for 10-20 minutes).  
 2. allow cells ~1hr to attach
 3. Check cell density on microscope.  Cells should be mostly confluent.
 4. Wash twice with 1x PBS to remove media and unattached cells
-5. Fix cells 10' in 5% PFA
+5. Fix cells 10' in 5% formaldhyed 1/2x PBT.
 6. wash out PFA in 1x PBS.  Cells may now be stored at 4C for a few days.
 
 ### Permeabilization
