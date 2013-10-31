@@ -24,16 +24,23 @@
 17. Incubate for 35’ in 2X SSC + 50% v/v formamide 0.1% Tween at RT.  Cells may be stored at 4C for several days.
 
 ### Hybridization
-18. Tap slides dry on a paper towel (never allowing the face of the slide containing the cells
-to come into contact with the paper towel)
-19. Create a hybridization cocktail consisting of 12.5 μl of 2X hyb. mix (4X SSCT + 20% w/v
-dextran sulfate), 12.5 μl of formamide, and 20-40 pmole of each Oligopaints probe set per slide.  Optional 10 ug RNase A.
-20. Add the hybridization cocktail (typically 26-28 μl after adding the probe sets) to a 22x22
-cm coverslip, invert the slide onto the coverslip, and seal with rubber cement
-21. Allow the rubber cement to dry for 5' at RT
-22. Denature the slides for 3' at 78°C on a water-immersed heat block
-23. Hybridize overnight at 47°C in a humidified chamber
-24. The next day, remove the coverslip and wash for 20’ in 2X SSCT (2X SSC + 0.1% v/v
-Tween 20) at 60°C
+18. Prepare hybridization mix:  Add 30 - 60 pmol of probe and 1 uL of reporter-labeled secondary probe (100 uMol) to hybrdization buffer (50% formamide, 2x SSC, 0.1% Tween-20, 10% Dextran-sulfate).  
+     * If probe volume is >= 5 uL, use concentrated Hybe buffer: ( 60% formamide, 2.4x SSC, 0.12% Tween-20, 12% Dextran-sulfate) 
+     * Optionally add 10 ug RNAse A.
+19. Add probe solution to a clean glass slide.
+20. Gently tap coverslip of cells dry on a kimwipe.  Invert cells on solution on glass slide. 
+21. Seal edges of coverslip with rubber cement and allow the rubber cement to dry for 5' at RT
+22. Denature the slides for 3' at 78°C on a water-immersed heat block (current calibration has heat block set to 85C.  With water and glass on top this gets to 78C).
+23. Hybridize overnight at 47°C in a humidified chamber (>= 16 hours)
+
+### Post Hybe washes
+24. Pre-warm 2x SSCT (2X SSC + 0.1% v/v Tween 20) to 60C (60C dry oven).  
+25. Remove the coverslip and wash 2x for 10' each in 2X SSCT at 60C (in dry oven).
 25. Incubate in 2X SSCT for 10’ at RT
-26. Store in 2x SSC at 4C for up to 2 weeks. 
+26. Wash in 2x SSC.   Optional: Store in 2x SSC at 4C for up to 2 weeks. 
+
+### Post Hybe Antibody Staining
+1. Rinse 2x with PBT 
+2. Wash 2x in PBT (5 min each)
+3. incubate in blocking buffer 1 hour (dilute Western Blocking Reagent 1:5 in PBT).
+4. incubate in antibodies diluted in blocking buffer (1:100 to 1:1000) 
