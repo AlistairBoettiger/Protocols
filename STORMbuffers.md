@@ -5,7 +5,7 @@
 *   100 uL of 50% Glucose
 *   5 uL of BME
 *   10 uL of GLOX solution (Make fresh each week)
-*   5 uL of COT (200 mM in DMSO)
+*   Optional: Add 5uL COT for fewer, brighter switching cycles.  
 
 ### Components:
 1.  Dilution Buffer
@@ -25,12 +25,16 @@
    * Cyclooctatetraene (138924 ALDRICH).  
    * Dilute 0.0208 g COT in 1 mL of DMSO.  Aliquot and store frozen
 
-   
-
 
 > *(higher molar Tris recommended for longer STORM imaging)
 > 
 > **Pyranose Oxidase is more expensive but ensures stable buffer pH in buffers exposed to air.  Glucose oxidase will cause buffer pH to drop rapidly (pH ~4 or less) if exposed to air for a few hours.  
+
+
+## Imaging with 750 dyes
+* For cy7, prepare STORM buffer as above.   Replace 5 uL BME with 5 uL of 1M MEA.
+* For Alexa 750 prepare STORM buffer as above. Replace 5 uL BME with 2 uL of 1M MEA.
+   - if dyes are still dimmer than desired, decrease to 1 uL of 1M MEA per 500 uL buffer.  
 
 ## TCEP Buffer
 
