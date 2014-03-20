@@ -4,17 +4,17 @@
 *   400 uL Dilution Buffer
 *   100 uL of 50% Glucose
 *   5 uL of BME
-*   10 uL of GLOX solution (Make fresh each week)
-*   Optional: Add 5uL COT for fewer, brighter switching cycles.  
+*   10 uL of Oxygen Scavenger (GLOX) solution (Make fresh each week)
+*   Optional: Add 5uL COT for brighter switching cycles (requires higher laser power).  
 
-### Components:
+### Component Recipes:
 1.  Dilution Buffer
   * 50 mM NaCl 10-200* mM Tris, pH 8.0
 2.  50% (m/v) Glucose stock 
 3.  Oxygen Scavenger (GLOX) 
    * 100 uL of Dilution Buffer (see above) 
-   * 7 mg Glucose Oxidase, or 14 mg of Pyranose Oxidase** (Sigma Aldrich) 
-   * 25 uL of catalase (20 mg/mL; Sigma Aldrich) 
+   * 7 mg Glucose Oxidase, or 14 mg of Pyranose Oxidase** (Sigma-Aldrich) 
+   * 25 uL of catalase (16 mg/mL stock; Sigma Aldrich) 
    * Dissolve glucose oxidase in Dilution Buffer, vortex to mix. After mixing the catalase suspension well, add catalase to glucose oxidase solution.
    * Centrifuge at maximum speed for 1 min.  Use the yellow supernatant for imaging buffers. 
    *  Store working tube at 4C for up to 1 week.
@@ -22,7 +22,7 @@
    * Beta-mercaptoethanol (Sigma-Aldrich 63689-25ML-F). 
    * Use straight.  Store at 4C. 
 5.  COT 
-   * Cyclooctatetraene (138924 ALDRICH).  
+   * Cyclooctatetraene (138924 Sigma Aldrich).  
    * Dilute 0.0208 g COT in 1 mL of DMSO.  Aliquot and store frozen
 
 
@@ -30,17 +30,22 @@
 > 
 > **Pyranose Oxidase is more expensive but ensures stable buffer pH in buffers exposed to air.  Glucose oxidase will cause buffer pH to drop rapidly (pH ~4 or less) if exposed to air for a few hours.  
 
+### MEA buffer
+* Dissolve 77 mg MEA (a.k.a. cysteamine, Sigma-Aldrich) in 360 mM HCl for a 1M stock solution.
+* make fresh before use.
+* use at 10 mM final concentration instead of BME 
 
-## Imaging with 750 dyes
-* For cy7, prepare STORM buffer as above.   Replace 5 uL BME with 5 uL of 1M MEA.
-* For Alexa 750 prepare STORM buffer as above. Replace 5 uL BME with 2 uL of 1M MEA.
+
+## Recommendations for imaging with 750 dyes
+* For cy7, prepare STORM buffer as above with COT.   Replace 5 uL BME with 5 uL of 1M MEA.
+* For Alexa 750 prepare STORM buffer as above with COT. Replace 5 uL BME with 2 uL of 1M MEA.
    - if dyes are still dimmer than desired, decrease to 1 uL of 1M MEA per 500 uL buffer.  
 
 ## TCEP Buffer
 
 *   0.2 M Tris pH 9  (200 uL Tris 1M pH 9.0)
-*   1 mM Methyl viologen. (10 uL of 0.1 M stock.  Currently make fresh from powder.) (25.7 mg / mL)  (Toxic!)
-*   1 mM Ascorbic Acid (10 uL of 0.1 M stock.  Currently make fresh from powder.)   (17.6 mg/mL)
+*   1 mM Methyl viologen. (10 uL of 0.1 M stock.  Make fresh from powder.) (25.7 mg / mL)  (Toxic!)
+*   1 mM Ascorbic Acid (10 uL of 0.1 M stock.  Make fresh from powder.)   (17.6 mg/mL)
 *   25 mM TCEP (50 uL of a 0.5 M stock vial.  $5/vial, use fresh, no more than 1 day).
 *   1% Glox (usual strength.  10 uL in 1 mL)
 *   5% glucose
