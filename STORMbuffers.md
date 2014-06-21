@@ -35,6 +35,10 @@
 * make fresh before use.
 * use at 10 mM final concentration instead of BME 
 
+### Comparison of MEA and BME
+* Alexa647 / Cy5 switching in BME will give more photons per cycle and is a more stable compound (MEA should be made fresh and STORM buffer with MEA will deteriorate faster).  
+* MEA has a longer duty cycle and is good for very dense samples.  MEA is also more sensitive to 405 stimulation and may therefore be better when not using activator dyes.  
+
 
 ## Recommendations for imaging with 750 dyes
 * For cy7, prepare STORM buffer as above with COT.   Replace 5 uL BME with 5 uL of 1M MEA.
