@@ -1,4 +1,4 @@
-### Protocol for Subbing Coverglass
+### Preparing Coverglass to Collect Tissue Sections
 
 ## Materials:
 
@@ -17,9 +17,9 @@
 3. Fill beaker with 1M KOH
 4. Place beaker in sonicator for 15 minutes
 5. Prepare gelatin:
-  * 300 mg gelatin in 290 ml H2O.  Heat to dissolve.
+  * 300 mg gelatin in 290 ml H2O.  Heat to dissolve.   (increase 5x)
   * Prepare sodium potassium sulfate solution:
-  * 30 mg chromium potassium sulfate in 10 ml H2O.  Vortex to dissolve.
+  * 30 mg chromium potassium sulfate in 10 ml H2O.  Vortex to dissolve. (increase 5x)
   * Add chromium potassium sulfate solution to gelatin solution.  
   * Total volume is now 300 ml.
 6. Rinse coverglass 1x in ddH2O
@@ -33,9 +33,7 @@
  ceramic holder.
 13.  Dip racks with coverglass into gelatin/chromium potassium sulfate solution  
  and swirl for 1 minute
-14.  Air dry coverglass.  Use KimWipes to wick away excess solution from the  
- base of the coverglass and the troughs of the ceramic holder.  Carefully  
- separate the coverslips from one another with a forceps (to ensure even  
- drying without aggregation of gelatin into smears or blobs).  
+14.  Whick away excess solution on each coverglass one by one and place into a clean dry ceramic holder   (to ensure even 
+ drying without aggregation of gelatin into smears or blobs).  Do not blow dry coverglass  
 15.  Store coverglass for future use.
 	
