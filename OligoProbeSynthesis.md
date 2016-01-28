@@ -50,7 +50,7 @@
 3. Transfer the solution to a DCC-25 column (can reuse, see below*), spin to elute and discard flow-through.
 4. Add 750 uL DNA Wash Buffer.  Spin at >10,000g and discard flow through.
 5. Spin column to remove excess buffer
-6. Transfer column to clean 1.5 uL tube and elute in 15-20 uL ddH2O.
+6. Transfer column to clean 1.5 uL tube and elute in 30 uL ddH2O.
 7. Measure final probe concentration
 8.  **NOTE:** Use Zymo DCC-100 columns if using a larger scale RT prep (1 nmol or more of primer).  Elute in 100 uL and concentrate sample using seedVac.
 
