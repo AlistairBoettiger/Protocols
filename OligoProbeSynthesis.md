@@ -29,13 +29,13 @@
 
 ### RT reaction (70 uL reaction)
 1. Prepare on ice in RNase free environment:
- * 5 uL Nuclease free H2O
- * 6 uL dNTPs
+ * 0 uL Nuclease free H2O
+ * 7 uL dNTPs
  * 14 uL RT buffer
- * 8 uL 100 uM labeled primer 
- * 4 uL or less [Maxima](https://www.thermofisher.com/order/catalog/product/EP0751) RT enzyme
+ * 10 uL 100 uM labeled primer 
+ * 5 uL or less [Maxima](https://www.thermofisher.com/order/catalog/product/EP0751) RT enzyme
  * 4 uL [RNasin Plus](https://www.promega.com/resources/protocols/product-information-sheets/n/rnasin-plus-rnase-inhibitor-protocol/) (RNase inhibitor)
- * 10 uL RNA from T7 reaction 
+ * 30 uL RNA from T7 reaction 
 2. Incubate at 50C for 1 hour.  (No pre-denaturing step)
 3. Digest remaining RNA 
     * mix 1:1 0.5 M EDTA and 1 M NaOH.  Add 50 uL per sample
