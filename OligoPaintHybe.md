@@ -9,7 +9,7 @@ Alistair Boettiger, (C) 2013 CC-BY
 2. allow cells ~1hr to attach
 3. Check cell density on microscope.  Cells should be mostly confluent.
 4. Wash twice with 1x PBS to remove media and unattached cells
-5. Fix cells 10' in 5% formaldehyde and 1/2x PBT.
+5. Fix cells 10' in 5% formaldehyde in PBS.
 6. wash out PFA in 1x PBS.  Cells may now be stored at 4C for a few days.
 
 ### Permeabilization
