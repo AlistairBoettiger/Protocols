@@ -25,7 +25,7 @@ Alistair Boettiger, (C) 2013 CC-BY
 10. Wash 2x for 5' in 1X PBS at RT
 11. Incubate for 5' in 0.1 M HCl at RT  (425 uL of 36% HCl in 50 mL = 0.1 M)
 12. Wash 3x for 1' in PBS
-13. for DNA FISH ONLY: incubate 1 hr at 37C in 100 ug/mL RNaseA in PBS.  NOTE: USE RNase pipettes and RNase (miniprep) Bench for all RNaseA work.  
+13. for DNA FISH ONLY: incubate 1 hr at 37C in 10 ug/mL RNaseA in PBS.  NOTE: USE RNase pipettes and RNase (miniprep) Bench for all RNaseA work.  
 14. Wash 3x for 1' in 2X SSC at RT
 15. Incubate for 35’ in 2X SSC + 50% v/v formamide 0.1% Tween at RT.  Cells may be stored at 4C for several days.
 
