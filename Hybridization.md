@@ -5,9 +5,9 @@ This version synchronized with our protocols paper Oligo STORM
 All steps are carried at room temperature, unless indicated otherwise. Conduct all RNaseA work such that RNase A does not contaminate work areas and equipment.
 
 ### Sample fixation
-  1.	Prepare a sample of tissue culture cells adhered at desired confluency to a coverslip. 
+  1.	Prepare a sample of tissue culture cells adhered at desired confluency to a coverslip (polylysine coating of the coverslip may be necessary to ensure cells adhere properly, depending on the cell line). 
   2. Gently rinse cells with 1X PBS by briefly immersing coverslip in a small petri dish containing the buffer and then placing into a fresh, dry petri dish.
-  3. Immediately add enough freshly prepared fixation solution to cover the cells and let stand for 10 minutes. 
+  3. Immediately add enough freshly prepared fixation solution (5% PFA in PBS) to cover the cells and let stand for 10 minutes. 
   4.	Remove fixation solution and rinse the sample once or twice with 1X PBS.
 
 ### Sample permeabilization
@@ -18,7 +18,7 @@ All steps are carried at room temperature, unless indicated otherwise. Conduct a
   5. For DNA FISH only: incubate 1 hour at 37°C in RNaseA solution.
   6. Wash 3X for 1 minute in 2X SSC.
   7. Incubate for 35 minutes in 2X SSC + 50% vol/vol formamide and 0.1% Tween.  
-  8. Use sample directly in step B3.3. or store at 4˚C. Coverslips may be stored at 4°C for several days.)
+  8. Use sample directly in step or store at 4˚C. Coverslips may be stored at 4°C for several days.
 
 ### Sample denaturation and hybridization (assuming one sample):
   1.	Prepare hybridization mix on ice (see Note B4.1):
@@ -29,14 +29,12 @@ All steps are carried at room temperature, unless indicated otherwise. Conduct a
   3. Gently tap coverslip of cells dry on a Kimwipe. Invert coverslip carrying the cells onto the solution on the glass slide. 
   4. Seal edges of coverslip with rubber cement and allow the rubber cement to dry for 5 minutes.
   5. Denature the slides at 78°C for 3 minutes.
-  6. Hybridize overnight at the hybridization temperature appropriate for the Oligopaint probe(s) being used (see Notes B4.6 and 14). If an air incubator is being used, place the sample in a humidified chamber.
+  6. Hybridize overnight at 42°C. If an air incubator is being used, place the sample in a humidified chamber.
 
 ### Post-hybridization washes and preparation for imaging
-  1. Pre-warm 2X SSCT solution to 60°C.
-  2. Remove the coverslip and wash 2X for 10 minutes each in 2X SSCT at 60°C.
-  3. Incubate in 2X SSCT for 10 minutes.
-  4. Wash in 2X SSC.
-  5. Optional: Store in 2X SSC at 4˚C for up to 2 weeks. 
+  1. Pre-warm 2X SSCT solution to 42°C.
+  2. Remove the coverslip and wash for 10 minutes each in 2X SSCT at 42°C.
+  3. Wash in 2X SSC.  Sample may be stored in 2X SSC at 4˚C for up to 2 weeks. 
 
 ### Mounting sample
   1. Make chambered slide:
@@ -55,7 +53,7 @@ All solutions should be prepared using distilled, deionized water (ddH2O). Take 
   1. Coverslip #1.5 (Electron Microscopy Sciences, 72230-01).
   2. Tissue culture cell suspension.
   3. 1X phosphate buffered solution (PBS) pH 7.4 solution: Dilute a 10X PBS pH 7.4 stock solution (137 mM NaCl, 2.7 mM KCl, 8 mM Na2HPO4, and 2 mM KH2PO4) ten-fold in ddH2O. 
-  4. Fixation solution: Combine 4 ml 10X PBS pH 7.4, 10 ml 16% (vol/vol) paraformaldehyde, and 26 ml ddH2O. Vortex vigorously to mix. Always prepare fresh.
+  4. Fixation solution: Combine 4 ml 10X PBS pH 7.4, 5 ml 32% (vol/vol) paraformaldehyde, and 31 ml ddH2O. Vortex vigorously to mix. Best to prepare fresh.  Solution may be kept at RT.
 
 ### Sample permeabilization
   1. Borohydride solution: 1 mg/ml sodium borohydride in dH2O, make fresh.
