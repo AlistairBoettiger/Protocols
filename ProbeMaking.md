@@ -36,7 +36,7 @@ All steps are carried out at room temperature, unless indicated otherwise.
   8.	Incubate at room temperature for 1 minute.
   9.	Elute DNA in 11 µl ddH2O.
 
-#### T7 reaction (30 μl reaction)
+#### T7 reaction (23 μl reaction)
   1.	Prepare on ice in RNase-free environment:
 	* 10 µl PCR product.
 	* 10 µl NTP buffer mix (from HiScribe kit).
@@ -44,7 +44,6 @@ All steps are carried out at room temperature, unless indicated otherwise.
 		* Note: This enzyme/buffer mix is the most expensive component of the reaction. Experiments suggest reducing the concentration of enzyme at this step will reduce product yield. 
 	* 1 µl RNase inhibitor.
 		* Note: Any RNase inhibitor should work at this step, it is not necessary to use the more expensive RNasin.
-	* 7 µl ddH2O.
   2.	Incubate at 37˚C for 4-16 hrs.
 
 #### RT reaction (50 µl reaction)
@@ -57,8 +56,8 @@ All steps are carried out at room temperature, unless indicated otherwise.
 		* Note: Experiments suggest it is possible to reduce the enzyme concentration 10 fold without loss in product yield.  This can substantially reduce the cost or probe construction.
 	* 4 µl RNasin RNase inhibitor.
 		* Note: It is essential to use an RNase inhibitor engineered to work at 50C, RNasin does, most do not.
-	* 25 µl RNA from T7 reaction.
-		* Note: It is recommended to add these components to the same PCR tube used for the T7 reactions.  The 30 uL T7 reaction will experience some evaporation, so the final concentration is closer to 25 uL.
+	* 20 µl RNA from T7 reaction.
+		* Note: It is recommended to add these components to the same PCR tube used for the T7 reactions.  The 23 uL T7 reaction will experience some evaporation, so the final concentration is closer to 20 uL.
   2.	Incubate at 50˚C for 1-2 hours (no pre-denaturing step required).
   3.	Digest remaining RNA:
 	* Mix 1:1 0.5 M EDTA and 1 M NaOH.

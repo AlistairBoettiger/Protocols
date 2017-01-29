@@ -18,19 +18,22 @@ For casting 2 gels.
 * 3.5 mL 40% acrylamide (19:1) Bis
 * 2.5 mL 5x TBE
 * 1.5 mL ddH2O
-* 38 uL 10% APS (ammonium-persulfate). Make fresh from powder
-* 38 uL TEMED
+* 40 uL 10% APS (ammonium-persulfate). Make fresh from powder
+* 20 uL TEMED
 
 #### Procedure
 * weigh out urea in 100 uL beaker
 * add acrylamide, TBE and ddH2O
 * add stir bar,
 * stir and heat on low gently 3-5 minutes, until Urea is dissolved.  Let cool.
-* Add 20 uL of TEMED and 20-40 uL of 10% APS.  Mix thoroughly
+* Add 20 uL of TEMED and 20-40 uL of 10% APS.  Mix thoroughly!
 * Pour gels.  Makes 2 0.75 mm gels.  
-* Note: Polymerization will happen soon after adding APS.  If it is too fast, use less APS.  
-* Allow 1 hour for gels to fully polymerize before removing from casting unit.  Use the excess gel as a test for when polymerization is complete.
-* Unused gels may be stored for a few days to a week at 4C wrapped in Seran wrap with a moist paper towel backing.  Old gels may start to frown.    
+* Note: Polymerization will happen in a few minutes to an 1 hour after adding APS.  
+	* If it is too fast to allow you to pour the gels, use less APS next time.
+	* Allow gels to fully polymerize before removing from casting unit.  Use the excess gel as a test for when polymerization is complete.  If not polymerized in a hour, repeat and use 2x APS.
+* Unused gels may be stored for a few days to a week wrapped in Seran wrap with a moist paper towel backing.
+	* These can last longer if kept cold, however sometimes 4C causes the Urea to crash out of solution, so RT may be better.
+	* Old gels may start to frown.    
 
 ## Running Gel
 * Warm 1 L of 1x TBE buffer for 2:30 min in microwave. 

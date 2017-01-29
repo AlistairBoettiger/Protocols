@@ -11,8 +11,8 @@ All steps are carried at room temperature, unless indicated otherwise. Conduct a
   4.	Remove fixation solution and rinse the sample once or twice with 1X PBS.
 
 ### Sample permeabilization
-  1. Incubate fixed cells for 10 minutes in permeabilization solution.
-  2. Incubate for 2 minutes in 1X PBS.
+  1. Incubate fixed cells for 10 minutes in Permeabilization solution (0.5% Triton-X in PBS).
+  2. Wash 2X in 1X PBS.
   3. Incubate for 5 minutes in 0.1 M HCl.
   4. Wash 3X for 1 minute in PBS.
   5. For DNA FISH only: incubate 1 hour at 37°C in RNaseA solution.
@@ -21,14 +21,13 @@ All steps are carried at room temperature, unless indicated otherwise. Conduct a
   8. Use sample directly in step or store at 4˚C. Coverslips may be stored at 4°C for several days.
 
 ### Sample denaturation and hybridization (assuming one sample):
-  1.	Prepare hybridization mix on ice (see Note B4.1):
-		~100 pmol of Oligopaint oligos (see Note B4.3).
-		1 µl of 100 μM Reporter-labeled secondary oligo.
-		Enough hybridization buffer to achieve a final volume of ~20-70µl (see Notes B4.3 and 10).
-  2. Add ~20-70 µl hybridization mix to a clean glass slide. It is important that enough solution is added such that, after the following step (B3.3.3), all cells are exposed to the solution; too little solution results in air bubbles, where cells will not be exposed to hybridization mix.
+  1.	Prepare hybridization mix on ice:
+		* 1-5 µL of concentrated probe (~1000 ng/uL)
+		* 20-70 µL of hybrdization buffer (see below).
+  2. Add hybridization mix to a clean glass slide or a small petri dish.
   3. Gently tap coverslip of cells dry on a Kimwipe. Invert coverslip carrying the cells onto the solution on the glass slide. 
   4. Seal edges of coverslip with rubber cement and allow the rubber cement to dry for 5 minutes.
-  5. Denature the slides at 78°C for 3 minutes.
+  5. Denature the slides at 78°C-85°C for 3 minutes.
   6. Hybridize overnight at 42°C. If an air incubator is being used, place the sample in a humidified chamber.
 
 ### Post-hybridization washes and preparation for imaging
